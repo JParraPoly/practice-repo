@@ -1,27 +1,21 @@
-## First Name Last Name
+## Joseph Parra
 
-### Term Year 
+### Spring 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
-
-- Course 2
-
-- Course 3
-
-- Course 4
+- Introduction to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Watching soccer
 
-- Thing 2
+- Playing video games
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/01/18
